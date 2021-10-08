@@ -1,4 +1,4 @@
 hello people, how are you ?
 
 
-Resposta: Im fine, thank you
+Answer: Im fine, thank you
