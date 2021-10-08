@@ -4,3 +4,5 @@ hello people, how are you ?
 Answer: Im fine, thank you
 
 Im fine too. how old are you ?
+
+I have 3 years old
